@@ -26,7 +26,7 @@ const channels = [
           :href="`mailto:${profile.email}`"
           class="rounded-full bg-accent px-5 py-2.5 text-sm font-semibold text-ink transition hover:bg-white"
         >
-          Email
+          Email Me
         </a>
       </div>
 
