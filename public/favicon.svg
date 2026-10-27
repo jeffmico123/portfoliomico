@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img">
+  <title>TP</title>
+  <rect width="32" height="32" rx="8" fill="#07090d"/>
+  <path fill="#e8eef5" d="M6.2 8.2h9.2v2.6H12.3V24H9.3V10.8H6.2z"/>
+  <path fill="#e8eef5" d="M16.8 8.2h5.1c3 0 4.9 1.7 4.9 4.4 0 2.7-1.9 4.5-4.9 4.5h-2.2V24h-2.9zm2.9 6.3h2c1.3 0 2.1-.7 2.1-1.9s-.8-1.8-2.1-1.8h-2z"/>
+  <circle cx="26.6" cy="24.4" r="1.7" fill="#2ee6d6"/>
+</svg>

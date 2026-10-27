@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" role="img">
+  <title>Sample  Cloud automation</title>
+  <rect width="800" height="480" fill="#070b10"/>
+  <rect x="70" y="70" width="200" height="140" rx="16" fill="#1d4ed8" opacity=".75"/>
+  <rect x="300" y="70" width="200" height="140" rx="16" fill="#0f766e"/>
+  <rect x="530" y="70" width="200" height="140" rx="16" fill="#7c3aed" opacity=".7"/>
+  <rect x="70" y="240" width="660" height="170" rx="16" fill="#111827"/>
+  <rect x="100" y="270" width="80" height="10" rx="5" fill="#22c55e"/>
+  <rect x="100" y="296" width="520" height="8" rx="4" fill="#334155"/>
+  <rect x="100" y="320" width="460" height="8" rx="4" fill="#334155"/>
+  <rect x="100" y="344" width="400" height="8" rx="4" fill="#334155"/>
+  <text x="400" y="390" text-anchor="middle" fill="#e8eef5" font-family="Outfit, sans-serif" font-size="20">SAMPLE  replace this image</text>
+</svg>

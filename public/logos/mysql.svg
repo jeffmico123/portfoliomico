@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img">
+  <title>MySQL</title>
+  <rect width="24" height="24" rx="6" fill="#00618A"/>
+  <path fill="#E48E00" d="M5 16.6c1.8-3.6 4.2-6.4 7.8-7.4.6 1.4 1.6 2.4 3.1 2.8-.8 1.6-2.4 2.7-4.3 3.1-2.2.5-4.6.4-6.6 1.5z"/>
+  <path fill="#fff" d="M6.2 8.2h2.1l1.5 5.2 1.5-5.2h2l-2.6 7.6H9z"/>
+</svg>

@@ -1,0 +1,40 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-ink: #07090d;
+  --color-panel: #0e131b;
+  --color-accent: #2ee6d6;
+  --font-display: 'Syne', 'Outfit', sans-serif;
+}
+
+:root {
+  color-scheme: dark;
+  font-family: 'Outfit', sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  background: #07090d;
+  color: #fff;
+}
+
+.bg-grid {
+  background-image:
+    linear-gradient(to right, rgb(255 255 255 / 3%) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(255 255 255 / 3%) 1px, transparent 1px);
+  background-size: 44px 44px;
+  mask-image: linear-gradient(to bottom, #000 0%, transparent 85%);
+}
+
+.glow {
+  border-radius: 9999px;
+  background: radial-gradient(circle, rgb(46 230 214 / 20%) 0%, transparent 68%);
+  filter: blur(40px);
+}

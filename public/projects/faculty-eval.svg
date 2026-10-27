@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" role="img">
+  <title>Sample  Faculty Evaluation</title>
+  <rect width="800" height="480" fill="#0a0d12"/>
+  <rect x="48" y="40" width="704" height="400" rx="16" fill="#141922"/>
+  <rect x="80" y="72" width="220" height="24" rx="8" fill="#2ee6d6" opacity=".35"/>
+  <rect x="80" y="120" width="640" height="44" rx="8" fill="#1c2430"/>
+  <rect x="80" y="180" width="640" height="44" rx="8" fill="#1c2430"/>
+  <rect x="80" y="240" width="640" height="44" rx="8" fill="#1c2430"/>
+  <rect x="80" y="300" width="180" height="44" rx="8" fill="#14b8a6"/>
+  <text x="400" y="400" text-anchor="middle" fill="#e8eef5" font-family="Outfit, sans-serif" font-size="22">SAMPLE  replace this image</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img">
+  <title>HeyReach</title>
+  <rect width="24" height="24" rx="6" fill="#111"/>
+  <path fill="#fff" d="M6.4 6.2h2.1v4.1h4.2V6.2h2.1v11.6h-2.1v-5.3H8.5v5.3H6.4z"/>
+  <circle cx="18.2" cy="7.2" r="1.5" fill="#7C5CFF"/>
+</svg>
